@@ -1,4 +1,4 @@
-# 🚀 Projeto Labex 🚀
+# Projeto Labex 🚀
 
  Projeto individual, simulando uma aplicação que gerencia viagens espaciais. A aplicação tem diferentes funcionalidades que são integradas com a API Labex fornecida pela Labenu.
 
