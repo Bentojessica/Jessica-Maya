@@ -31,4 +31,4 @@ Optei por separar as responsabilidades de cada arquivo dentro do código com as 
 
 👇🏻👇🏻
 
-[LabeEddit](https://therapeutic-rock.surge.sh)
+[LabeX](https://therapeutic-rock.surge.sh)
